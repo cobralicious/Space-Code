@@ -1,4 +1,4 @@
-![TEST SITE](https://media.giphy.com/media/3o6ZsV5qVt3q0uP4PC/giphy.gif)
+<img src="ico.png" alt="My Photo" style="border-radius: 15px; width: 100%; max-width: 600px;">
 
 # 🌌 SPACE CODE
 
