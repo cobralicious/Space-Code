@@ -1,4 +1,4 @@
-<img src="ico.png" alt="My Photo" style="border-radius: 15px; width: 100%; max-width: 600px;">
+<img src="pic.png" alt="My Photo" style="border-radius: 15px; width: 100%; max-width: 600px;">
 
 # 🌌 SPACE CODE
 
