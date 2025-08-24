@@ -1,4 +1,7 @@
-<img src="pic.png" alt="My Photo" style="border-radius: 15px; width: 100%; max-width: 600px;">
+<a href="https://example.com" target="_blank">
+  <img src="pic.png" alt="My Photo" style="border-radius: 15px; width: 100%; max-width: 600px;">
+</a>
+
 
 # 🌌 SPACE CODE
 
